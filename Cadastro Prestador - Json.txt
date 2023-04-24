@@ -1,0 +1,183 @@
+{
+   "nome" : "Astrolgildo Planetário",
+   "email" : "astro@reformas.com.br",
+   "telefone" : "1156156070",
+   "cnpj" : "11222333/0001-01",
+   "especialidade" : "ELETRICISTA",
+   "endereco" : {
+      "logradouro" : "Rua Thomas Edison",
+      "bairro" : "Vila Luz",
+      "cep" : "12233000",
+      "cidade" : "Brasilia",
+      "uf" : "DF",
+      "numero" : "60",
+      "complemento" : "Bloco H"
+   }
+}
+
+
+{
+   "nome" : "Pedro Manobrista",
+   "email" : "spider@reformas.com.br",
+   "telefone" : "1156156070",
+   "cnpj" : "11222333/0001-02",
+   "especialidade" : "PEDREIRO",
+   "endereco" : {
+      "logradouro" : "Rua Tijolos de Ouro",
+      "bairro" : "Vila Reboco",
+      "cep" : "12233001",
+      "cidade" : "São Paulo",
+      "uf" : "SP",
+      "numero" : "1000",
+      "complemento" : "Apto 2"
+   }
+}
+
+{
+   "nome" : "Berisvaldo Pereira",
+   "email" : "beri@reformas.com.br",
+   "telefone" : "1156156080",
+   "cnpj" : "11222333/0001-03",
+   "especialidade" : "PINTOR",
+   "endereco" : {
+      "logradouro" : "Avenida da Aquarela",
+      "bairro" : "Jardim Suvinil",
+      "cep" : "12233001",
+      "cidade" : "São Paulo",
+      "uf" : "SP",
+      "numero" : "15"
+   }
+}
+
+{
+   "nome" : "Gumercindo Dias",
+   "email" : "guma@reformas.com.br",
+   "telefone" : "1156156070",
+   "cnpj" : "11222333/0001-04",
+   "especialidade" : "PEDREIRO",
+   "endereco" : {
+      "logradouro" : "Rua do Cimento",
+      "bairro" : "Vila Reboco",
+      "cep" : "12233001",
+      "cidade" : "São Paulo",
+      "uf" : "SP",
+      "numero" : "750",
+      "complemento" : "Apto 5B"
+   }
+}
+
+{
+   "nome" : "Estevão Entendido",
+   "email" : "cap@reformas.com.br",
+   "telefone" : "1156156070",
+   "cnpj" : "21222333/0001-05",
+   "especialidade" : "ENCANADOR",
+   "endereco" : {
+      "logradouro" : "Rua Tigre",
+      "bairro" : "Vila Água Branca",
+      "cep" : "12233005",
+      "cidade" : "Rio de Janeiro",
+      "uf" : "RJ",
+      "numero" : "s/n"
+   }
+}
+
+{
+   "nome" : "Bruno Letreiro",
+   "email" : "smash@reformas.com.br",
+   "telefone" : "1156156090",
+   "cnpj" : "11222333/0001-06",
+   "especialidade" : "ELETRICISTA",
+   "endereco" : {
+      "logradouro" : "Rua das Luzes",
+      "bairro" : "Jardim das Ideias",
+      "cep" : "12233001",
+      "cidade" : "São Paulo",
+      "uf" : "SP",
+      "numero" : "800",
+      "complemento" : "Casa 3"
+   }
+}
+
+{
+   "nome" : "Bruce Wayne",
+   "email" : "batemail@reformas.com.br",
+   "telefone" : "1156156011",
+   "cnpj" : "21222333/0001-07",
+   "especialidade" : "DECORADOR",
+   "endereco" : {
+      "logradouro" : "Rua do Beco",
+      "bairro" : "Vila dos Órfãos",
+      "cep" : "12233003",
+      "cidade" : "Rio de Janeiro",
+      "uf" : "RJ",
+      "numero" : "10",
+      "complemento" : "Subsolo 2"
+   }
+}
+
+{
+   "nome" : "Clark Kent",
+   "email" : "super@reformas.com.br",
+   "telefone" : "1156156099",
+   "cnpj" : "11222333/0001-08",
+   "especialidade" : "PEDREIRO",
+   "endereco" : {
+      "logradouro" : "Rua Criptonita",
+      "bairro" : "Vila Clarim Diário",
+      "cep" : "12233001",
+      "cidade" : "São Paulo",
+      "uf" : "SP",
+      "numero" : "9000",
+      "complemento" : "Cobertura"
+   }
+}
+
+{
+   "nome" : "Lois Lane",
+   "email" : "llane@reformas.com.br",
+   "telefone" : "1156151234",
+   "cnpj" : "11222333/0001-09",
+   "especialidade" : "DECORADOR",
+   "endereco" : {
+      "logradouro" : "Rua dos Enfeites",
+      "bairro" : "Vila Papel de Parede",
+      "cep" : "12233001",
+      "cidade" : "São Paulo",
+      "uf" : "SP",
+      "numero" : "111",
+      "complemento" : "Apto 5"
+   }
+}
+
+{
+   "nome" : "Natasha Romanov",
+   "email" : "viuva@reformas.com.br",
+   "telefone" : "1156156033",
+   "cnpj" : "31222333/0001-10",
+   "especialidade" : "ENCANADOR",
+   "endereco" : {
+      "logradouro" : "Rua KGB",
+      "bairro" : "Jardim Secreto",
+      "cep" : "12244001",
+      "cidade" : "Belo Horizonte",
+      "uf" : "MG",
+      "numero" : "745"
+   }
+}
+
+{
+   "nome" : "Genoveva Dantas",
+   "email" : "geno@reformas.com.br",
+   "telefone" : "1156151070",
+   "cnpj" : "11222333/0001-11",
+   "especialidade" : "PEDREIRO",
+   "endereco" : {
+      "logradouro" : "Rua da Demolição",
+      "bairro" : "Jardim Bloco",
+      "cep" : "12233001",
+      "cidade" : "São Paulo",
+      "uf" : "SP",
+      "numero" : "10"
+   }
+}
